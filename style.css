@@ -1,0 +1,26 @@
+html, body {
+    width: 100%;
+    height: 100%;
+}
+* {
+    margin: 0;
+    background: white;
+}
+pre {
+    display: block;
+    font-family: monospace;
+    white-space: pre;
+    background: greenyellow;
+}
+img {
+    width: 250px;
+    height: 300px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+div {
+    width: 50%;
+    max-width: 1024px;
+    margin: 0 auto;
+}
